@@ -16,3 +16,27 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+body {
+	margin: 0;
+	padding:0;
+	background: #CCCC99;
+}
+
+.title {
+	display: inline-block;
+	background-color: red;
+	padding-left: 1em;
+	padding-right:1em;
+	background: #CCCC99;
+
+}
+.star {
+	vertical-align: middle;
+	margin: 0 0.2em 0 0;
+	width: 1.2em;
+}
+
+.masthead {
+	text-align: center;
+	background: transparent url("../images/line-pattern.png") repeat left center;
+}
