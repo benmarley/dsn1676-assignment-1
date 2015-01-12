@@ -21,12 +21,15 @@ body {
 	padding:0;
 	background: #CCCC99;
 }
+.img-flex {
+	width: 100%;
+}
 
 .title {
 	display: inline-block;
 	background-color: red;
-	padding-left: 1em;
-	padding-right:1em;
+	padding-left: .5em;
+	padding-right:.5em;
 	background: #CCCC99;
 
 }
@@ -40,3 +43,18 @@ body {
 	text-align: center;
 	background: transparent url("../images/line-pattern.png") repeat left center;
 }
+
+.panel {
+	border-image: url("../images/border-image.png") 28 28 28 28 stretch stretch;
+	border-width: 28px 28px 28px 28px;
+}
+
+.reward-info {
+	background: #996633;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+
+
+
