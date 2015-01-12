@@ -45,16 +45,28 @@ body {
 }
 
 .panel {
-	border-image: url("../images/border-image.png") 28 28 28 28 stretch stretch;
-	border-width: 28px 28px 28px 28px;
+	border-image: url("../images/border-image.png") 23 23 23 23 stretch stretch;
+	border-width: 23px 23px 23px 23px;
 }
 
 .reward-info {
 	background: #996633;
-	padding-left: 1em;
-	padding-right: 1em;
 }
 
+.article-graphic-1 {
+	width:4em;
+	margin-left: auto;
+	margin-righ:auto;
+
+}
+
+.info {
+	text-align: center; 
+}
+
+.article-graphic-2 {
+	width:3em;
+}
 
 
 
