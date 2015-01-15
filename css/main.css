@@ -29,7 +29,7 @@ body {
 	display: inline-block;
 	background-color: red;
 	padding-left: .5em;
-	padding-right:.5em;
+	padding-right: .5em;
 	background: #CCCC99;
 
 }
@@ -51,12 +51,15 @@ body {
 
 .reward-info {
 	background: #996633;
+	display: block;
 }
 
 .article-graphic-1 {
-	width:4em;
-	margin-left: auto;
-	margin-righ:auto;
+	display: block;
+	width: 25%;
+	margin-left: 38%;
+	margin-right: 62%;
+	margin-top: .5em;
 
 }
 
@@ -65,8 +68,22 @@ body {
 }
 
 .article-graphic-2 {
-	width:3em;
+	width: 19%;
+	margin-left: 40%;
+	margin-right: 60%;
+	margin-bottom: .5em;
+
 }
 
+.padding-images {
+	padding-right: 1.5em;
+}
 
+.padding-images-2 {
+	padding-left: 1.5em;
+}
+
+h2 {
+	margin:0;
+}
 
