@@ -33,7 +33,6 @@ body {
 	padding-left: .5em;
 	padding-right: .5em;
 	background: #CCCC99;
-
 }
 
 .star {
@@ -77,6 +76,7 @@ h2 {
 	margin:0;
 	padding-top: 2em;
 }
+
 .space-after {
 	padding-bottom: 3em;
 }
